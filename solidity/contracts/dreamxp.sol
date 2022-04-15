@@ -1,5 +1,5 @@
 /*
-This file is for documentation of the etherxp NFT contract - use ../etherxp-flattened.sol for compilation */
+This file is for documentation of the dreamerxp NFT contract - use ../dreamerxp-flattened.sol for compilation */
 
 
 
@@ -7,13 +7,13 @@ This file is for documentation of the etherxp NFT contract - use ../etherxp-flat
 //import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/introspection/ERC165.sol";
 //import "https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/utils/Counters.sol";
 
-contract theetherxp is ERC721 {
+contract thedreamerxp is ERC721 {
 
 
     using Counters for Counters.Counter;
     Counters.Counter private _tokenIds;
-    constructor() public ERC721("TheEtherIO XP", "EXP") {
-        _setBaseURI("https://raw.githubusercontent.com/www-theether-io/etherxp/main/metadata/json/");
+    constructor() public ERC721("TheDreamerIO XP", "DXP") {
+        _setBaseURI("https://raw.githubusercontent.com/thedreamdao-eth/Dreamer_NTT_Merit_Badges/gh-pages-iterations/metadata/json/");
     }
     
     // global state variables
