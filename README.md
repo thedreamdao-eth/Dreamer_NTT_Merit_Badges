@@ -37,7 +37,7 @@ We are going to turn our solution into a completely decentralized identity manag
 
 #### Git Repo Details
 
-This repository contains the source code for TheEtherXP ERC token. The token is built on ERC721 standards modified to prevent transfer of tokens. Tokens are initially minted from the smart-contract address and are inextricably bound to the address called in the initial mint function.
+This repository contains the source code for TheEtherXP ERC token that is forked to draft the source code for the TheDreamerXP ERC token. The token is built on ERC721 standards modified to prevent transfer of tokens. Tokens are initially minted from the smart-contract address and are inextricably bound to the address called in the initial mint function.
 
 The contract used for compilation is theetherxp_flattened.sol, this contract contains all solidity imports and flattened using [solidity flattener](https://github.com/poanetwork/solidity-flattener), the contract was compiled with solidity 0.6.2 and deployed using [remix.ethereum.org IDE](https://remix.ethereum.org/)
 
