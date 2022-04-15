@@ -1,7 +1,7 @@
 # TheDreamerXP Non-Transferable Token Reputation System :key:
 
-![Logo01](./Dream_DAO_Logo.png)
-> Non-transferable NFT reputation system for [www-theether-io](https://dreamdao.xyz/)
+![logo](./Dream_DAO_Logo.png)
+> Non-transferable NFT reputation system for [Dream DAO](https://dreamdao.xyz/)
 
 ### Motivation and Objectives
 
