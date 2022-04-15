@@ -8,15 +8,14 @@ visit https://remix.ethereum.org
 
 View File Explorers on left hand navigation pane --> Create new file 
 
-copy/paste the code from here into the new file:
-https://raw.githubusercontent.com/www-theether-io/etherxp/main/solidity/contracts/1155/eXP1155.sol
+copy/paste the code from here into the new file:https://github.com/thedreamdao-eth/Dreamer_NTT_Merit_Badges/blob/gh-pages-iterations/solidity/contracts/1155/dXP1155.sol
 
-save file as exp1155flat.sol
+save file as dxp1155flat.sol
 
-Next ( on left hand navigation pane ) go to Solidity Compiler --> Compile the file exp1155flat.sol
+Next ( on left hand navigation pane ) go to Solidity Compiler --> Compile the file dxp1155flat.sol
 
 Next ( on left hand navigation pane ) go to Deploy and Run Transactions --> Use all defaults, except for CONTRACT, For CONTRACT, open the drop down and select
-"TheETHER / browser/exp1155flat.sol"
+"TheDreamer / browser/dxp1155flat.sol"
 
 Hit Deploy ( you may need to up the gas limit.. just add another 0 on the end )
 
